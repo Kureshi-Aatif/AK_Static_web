@@ -1,0 +1,1 @@
+# AK_Static_web
